@@ -1,0 +1,8 @@
+# note that the program only supports calculations for mercator projections
+mapStartCoordinates:
+  longitude: -180.0
+  latitude: -61.4
+mapEndCoordinates:
+  longitude: 180.0
+  latitude: 79.9
+
